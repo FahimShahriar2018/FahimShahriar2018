@@ -51,6 +51,23 @@
   🧩 DSL Engineering with Xtext & Xtend
 </p>
 
+###
+
+<p align="center">
+  <a href="https://fahimshahriar2018.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live%20Website-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/FahimShahriar2018/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Source%20Code-GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  🌐 <b>Personal Portfolio Website</b><br/>
+  Showcasing my projects, skills, and academic work in Big Data, ML, Data Visualization, JavaFX, and DSL Engineering.
+</p>
+
+
 ---
 
 ### 🚀 Featured Projects
