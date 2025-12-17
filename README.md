@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
+</p>
+
 # 👋 Hi, I'm Fahim Shahriar
 
 🎓 Master’s Student in **Software Engineering** at the **University of Southern Denmark (SDU), Odense**  
