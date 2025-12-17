@@ -6,6 +6,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Hi%2C+I%27m+Fahim+Shahriar;Software+Engineering+Student+%40+SDU;Big+Data+%7C+ML+%7C+Data+Visualization;JavaFX+%7C+Xtext+%7C+Xtend+Developer&center=true&width=700&height=45">
 </p>
 
+
+###
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Software%20Engineering%20Student-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/University-SDU-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Odense%2C%20Denmark-lightgrey?style=for-the-badge" />
+</p>
+
+
 ###
 
 <div align="center">
@@ -27,6 +37,15 @@
 ###
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Big%20Data-Analytics-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Models-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-R%20Shiny-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/DSL-Xtext%20%26%20Xtend-purple?style=flat-square" />
+</p>
+
+###
+
+<p align="center">
   🎓 Master’s Student in <b>Software Engineering</b> (SDU, Odense)<br/>
   💡 Big Data • Machine Learning • Data Visualization<br/>
   🧩 DSL Engineering with Xtext & Xtend
@@ -35,9 +54,24 @@
 ---
 
 ### 🚀 Featured Projects
-- 🤖 Social Bot Detection & Visualization (R Shiny + ML)
-- 🧩 DSL Compilers (Xtext/Xtend → Java)
-- 🖥️ JavaFX Simulation Systems (FXML dashboards)
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Project-Social%20Bot%20Detection-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/R%20Shiny-Interactive%20Dashboard-276DC3?style=for-the-badge&logo=r" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-RF%20%7C%20KNN-orange?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Project-DSL%20Compilers-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Xtext-Grammar%20%26%20Scoping-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Xtend-Java%20Code%20Generation-yellow?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Project-JavaFX%20Simulations-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FXML-Dashboards-informational?style=for-the-badge" />
+</p>
 
 ---
 
@@ -56,10 +90,6 @@
 </div>
 
 ###
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="520"/>
-</p>
 
 ---
 
