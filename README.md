@@ -1,6 +1,11 @@
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+I%27m+Fahim+Shahriar;Software+Engineering+Student+@+SDU;Big+Data+%26+ML+Enthusiast;Welcome+to+my+GitHub!&center=true&width=600&height=50">
+</p>
+
+<p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
 </p>
+
 
 # 👋 Hi, I'm Fahim Shahriar
 
