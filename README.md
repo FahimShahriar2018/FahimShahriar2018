@@ -67,13 +67,6 @@
   Showcasing my projects, skills, and academic work in Big Data, ML, Data Visualization, JavaFX, and DSL Engineering.
 </p>
 
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="portfolio preview"/>
-</p>
-
-
 
 ---
 
