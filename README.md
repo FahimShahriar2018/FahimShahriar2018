@@ -6,12 +6,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/>
-</p>
-
-
-
 # 👋 Hi, I'm Fahim Shahriar
 
 🎓 Master’s Student in **Software Engineering** at the **University of Southern Denmark (SDU), Odense**  
